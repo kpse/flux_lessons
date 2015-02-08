@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "es6-promise": "^2.0.1"
+  },
+  "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-browserify": "^0.5.1",
     "gulp-concat": "^2.4.3",
     "react": "^0.12.2",
     "reactify": "^1.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
